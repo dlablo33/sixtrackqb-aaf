@@ -1,2 +1,2 @@
 # sixtrackqb
- aplicacion por modulos,creacion y lectura de facturas
+ aplicacion por modulos para importacion,creacion y lectura de facturas
